@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.usd.AccessoryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-06-02T06:46:52" hostname="Gianpaolos-MacBook-Air.local" time="0.019">
+  <properties/>
+  <testcase name="Testing getEVASION" classname="edu.usd.AccessoryTest" time="0.009"/>
+  <testcase name="Testing getMANA" classname="edu.usd.AccessoryTest" time="0.001"/>
+  <testcase name="Testing getHEALTH" classname="edu.usd.AccessoryTest" time="0.0"/>
+  <testcase name="Testing getINTELLIGENCE" classname="edu.usd.AccessoryTest" time="0.0"/>
+  <testcase name="Testing getSTRENGTH" classname="edu.usd.AccessoryTest" time="0.0"/>
+  <testcase name="Testing getNAME" classname="edu.usd.AccessoryTest" time="0.002"/>
+  <testcase name="Testing getDEFENSE" classname="edu.usd.AccessoryTest" time="0.001"/>
+  <testcase name="Testing getDEXTERITY" classname="edu.usd.AccessoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

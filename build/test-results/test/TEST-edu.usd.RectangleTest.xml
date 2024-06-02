@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.usd.RectangleTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-06-02T06:46:52" hostname="Gianpaolos-MacBook-Air.local" time="0.003">
+  <properties/>
+  <testcase name="Testing isVisible" classname="edu.usd.RectangleTest" time="0.0"/>
+  <testcase name="Testing getWidth" classname="edu.usd.RectangleTest" time="0.0"/>
+  <testcase name="Testing setXY" classname="edu.usd.RectangleTest" time="0.0"/>
+  <testcase name="Testing getHeight" classname="edu.usd.RectangleTest" time="0.0"/>
+  <testcase name="Testing setWidth" classname="edu.usd.RectangleTest" time="0.001"/>
+  <testcase name="Testing setHeight" classname="edu.usd.RectangleTest" time="0.0"/>
+  <testcase name="Testing getX" classname="edu.usd.RectangleTest" time="0.001"/>
+  <testcase name="Testing getY" classname="edu.usd.RectangleTest" time="0.0"/>
+  <testcase name="Testing setVisible" classname="edu.usd.RectangleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

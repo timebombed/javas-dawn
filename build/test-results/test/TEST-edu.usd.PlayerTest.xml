@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.usd.PlayerTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-06-02T06:46:52" hostname="Gianpaolos-MacBook-Air.local" time="0.01">
+  <properties/>
+  <testcase name="Testing getTotalStrength" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing getTotalIntelligence" classname="edu.usd.PlayerTest" time="0.001"/>
+  <testcase name="Testing setAccessory" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing getCharacterClass" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing getArmor" classname="edu.usd.PlayerTest" time="0.001"/>
+  <testcase name="Testing getTotalMana" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing getTotalDexterity" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing getTotalEvasion" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing setName" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing getName" classname="edu.usd.PlayerTest" time="0.001"/>
+  <testcase name="Testing getTotalHealth" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing getAccessory" classname="edu.usd.PlayerTest" time="0.001"/>
+  <testcase name="Testing setArmor" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing setCharacterClass" classname="edu.usd.PlayerTest" time="0.001"/>
+  <testcase name="Testing getWeapon" classname="edu.usd.PlayerTest" time="0.001"/>
+  <testcase name="Testing getTotalDefense" classname="edu.usd.PlayerTest" time="0.0"/>
+  <testcase name="Testing setWeapon" classname="edu.usd.PlayerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

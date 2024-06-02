@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.usd.RangerClassTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-06-02T06:46:52" hostname="Gianpaolos-MacBook-Air.local" time="0.004">
+  <properties/>
+  <testcase name="Testing getEvasion" classname="edu.usd.RangerClassTest" time="0.0"/>
+  <testcase name="Testing getMana" classname="edu.usd.RangerClassTest" time="0.001"/>
+  <testcase name="Testing getIntelliegence" classname="edu.usd.RangerClassTest" time="0.0"/>
+  <testcase name="Testing getDexterity" classname="edu.usd.RangerClassTest" time="0.001"/>
+  <testcase name="Testing getDefense" classname="edu.usd.RangerClassTest" time="0.0"/>
+  <testcase name="Testing getHealth" classname="edu.usd.RangerClassTest" time="0.0"/>
+  <testcase name="Testing getStrength" classname="edu.usd.RangerClassTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
